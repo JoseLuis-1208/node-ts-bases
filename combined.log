@@ -6,3 +6,5 @@
 {"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-11-22T17:21:40.647Z"}
 {"level":"info","message":"Hola Mundo","service":"app.js","timestamp":"2023-11-22T17:21:41.364Z"}
 {"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-11-22T17:21:41.365Z"}
+{"level":"info","message":"Hola Mundo","service":"app.js","timestamp":"2023-12-26T04:50:15.179Z"}
+{"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-12-26T04:50:15.180Z"}
